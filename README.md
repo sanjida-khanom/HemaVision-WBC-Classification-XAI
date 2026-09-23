@@ -14,8 +14,15 @@
 ## 📢 Publication
 
 Official code for the paper **"HemaVision: EfficientNetV2 and CBAM-Based Explainable AI for Morphological White Blood Cell Classification and Clinical Decision Support"**, accepted at the **IEEE Asia-Pacific Conference on Computer Science and Data Engineering (IEEE CSDE 2026)**.
+<p align="center"><img src="Paper%20Acceptance%20Mail.png" width="95%"></p>
 
-**Authors:** Sanjida Khanom, Md. Ashiqur Rahman, Mohammod Ashikur Rahman, Muhammad Aminur Rahaman, Md. Ahsan Habib, Md Shafiqul Islam
+**Authors:**
+- Sanjida Khanom
+- Md. Ashiqur Rahman
+- Mohammod Ashikur Rahman
+- Muhammad Aminur Rahaman
+- Md. Ahsan Habib
+- Md Shafiqul Islam
 
 ## 📌 Overview
 
